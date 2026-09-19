@@ -16,3 +16,5 @@ def get_connection():
     )
 
     return connection
+
+# get_connection()
